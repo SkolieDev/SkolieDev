@@ -3,7 +3,6 @@
 <p align="center">
   👩‍💻 <strong>Software Developer</strong> with a background in QA<br>
   🌱 Always learning and improving my craft<br>
-  🧩 Currently at <a href="https://www.accenture.com/es-es" target="_blank">Accenture</a><br>
   📍 Based in Spain<br>
   🤝 <a href="https://www.linkedin.com/in/esther-castañeda-89900716a/" target="_blank">Connect with me on LinkedIn</a>
 </p>
@@ -82,4 +81,4 @@
 
 ---
 
-⭐️ From [Esther Castañeda](https://github.com/esthercm99)
+⭐️ From [Esther Castañeda](https://github.com/SkolieDev)

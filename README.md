@@ -75,8 +75,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=esthercm99&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthercm99&layout=compact&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SkolieDev&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkolieDev&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---

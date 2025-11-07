@@ -1,10 +1,15 @@
-<h1 align="center">✨ Hi there! I'm <strong>Esther Castañeda</strong></h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,50:E040FB,100:BA68C8&height=200&section=header&text=Esther%20✨&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20QA%20Engineer%20|%20Always%20Learning&descSize=16&descAlignY=60" width="100%"/>
+
+---
+
+## 💫 About Me
 
 <p align="center">
-  👩‍💻 <strong>Software Developer</strong> with a background in QA<br>
-  🌱 Always learning and improving my craft<br>
-  📍 Based in Spain<br>
-  🤝 <a href="https://www.linkedin.com/in/esther-castañeda-89900716a/" target="_blank">Connect with me on LinkedIn</a>
+👩‍💻 <strong>Software Developer</strong> with a background in <strong>Quality Assurance</strong>.<br/>
+🌱 Passionate about <i>clean code, testing, and learning new technologies</i>.<br/>
+📍 Based in <b>Spain</b>.<br/>
 </p>
 
 ---
@@ -12,62 +17,37 @@
 ## 🧠 Tech Stack
 
 ### 🔹 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=7825E6"/>
 </p>
 
-### 🔹 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="Ionic" />
-</p>
-
-### 🔹 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" />
+### 🔹 Frameworks & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=7825E6"/>
 </p>
 
 ### 🔹 Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-</p>
-
-### 🔹 Tools & QA
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Shell Script" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=7825E6"/>
 </p>
 
 ### 🔹 Collaboration & Version Control
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</p>
-
-### 🔹 Android & Testing
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-</p>
-
-### 🔹 Others
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="JSON" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="XML" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=7825E6"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7825E6"/>
 </p>
 
 ---
@@ -75,10 +55,40 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SkolieDev&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkolieDev&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkolieDev&show_icons=true&theme=radical&bg_color=0d1117&title_color=E040FB&icon_color=AB47BC&text_color=7825E6&border_color=AB47BC&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkolieDev&layout=compact&theme=radical&bg_color=0d1117&title_color=E040FB&text_color=7825E6&border_color=AB47BC&border_radius=15&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkolieDev&theme=tokyo-night&bg_color=0d1117&color=E040FB&line=AB47BC&point=7825E6&area=true&hide_border=false&border_color=AB47BC&custom_title=Contribution%20Graph%20💜&radius=15" width="90%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkolieDev/SkolieDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkolieDev/SkolieDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SkolieDev/SkolieDev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 💌 Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/esther-castañeda-89900716a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7825E6"/>
+  </a>
+  <a href="https://github.com/SkolieDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=7825E6"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SkolieDev&label=Profile%20Views&color=BA68C8&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/SkolieDev?label=Followers&style=for-the-badge&color=E040FB&labelColor=AB47BC"/>
 </p>
 
 ---
 
-⭐️ From [Esther Castañeda](https://github.com/SkolieDev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,50:E040FB,100:BA68C8&height=100&section=footer" width="100%"/>
+
+</div>
